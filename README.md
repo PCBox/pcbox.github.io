@@ -9,8 +9,18 @@ Our source code repository is at [https://github.com/PCBox/PCBox](https://github
 Features over 86Box
 ===================
 - Pentium 3 emulation (including SSE)
-- (Planned) Athlon emulation
-- (Planned) Various selectable CPU accuracy levels
+- PGE emulation (This means you can run slightly newer builds of Windows than 86Box)
+- A few new machines such as the Atari PC 4
+
+Planned improvements for the future
+===================================
+- Pentium 4 emulation (including SSE2)
+- Athlon emulation
+- Athlon XP emulation
+- More accurate Pentium 3 speeds
+- New dynamic recompiler that sacrifices timing accuracy for speed
+- Rewritten FPU emulation for full 80-bit accuracy using software floating point
+- (far future) x86-64 emulation
 
 Minimum System Requirements
 ===========================
@@ -21,5 +31,5 @@ Minimum System Requirements
 Recommended System Requirements
 ===============================
 - AMD Ryzen 5 5600X, Intel Core i5 12600K, or better
-- Windows 10 21H1 or newer or modern Linux
+- Windows 11 or newer or modern Linux
 - 8 GB of RAM
