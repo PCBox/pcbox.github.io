@@ -18,7 +18,7 @@ Planned improvements for the future
 - Athlon emulation
 - Athlon XP emulation
 - More accurate Pentium 3 speeds
-- New dynamic recompiler that sacrifices timing accuracy for speed
+- New optional dynamic recompiler that sacrifices timing accuracy for speed
 - Rewritten FPU emulation for full 80-bit accuracy using software floating point
 - (far future) x86-64 emulation
 
