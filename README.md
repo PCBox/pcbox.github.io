@@ -31,6 +31,6 @@ Minimum System Requirements
 
 Recommended System Requirements
 ===============================
-- AMD Ryzen 5 5600X, Intel Core i5 12600K, or better
+- AMD Ryzen 5 7600X, Intel Core i5 12600K, or better
 - Windows 11 or newer or modern Linux
 - 8 GB of RAM
