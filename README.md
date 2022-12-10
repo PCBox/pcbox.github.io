@@ -9,7 +9,6 @@ Our source code repository is at [https://github.com/PCBox/PCBox](https://github
 Features over 86Box
 ===================
 - Pentium 3 emulation (including SSE)
-- PGE emulation (This means you can run slightly newer builds of Windows than 86Box)
 - More VIA C3 models, including ones that support SSE
 - A few new machines such as the Atari PC 4
 - Experimental support for coreboot BIOSes for a couple of boards
