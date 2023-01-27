@@ -16,7 +16,7 @@ Features over 86Box
 ===================
 - Pentium 3 emulation (including SSE)
 - More VIA C3 models, including ones that support SSE
-- New machines such as the Atari PC 4 and the Atari PC 3
+- New machines such as the Atari PC 3 and the Atari PC 4
 - Experimental support for coreboot BIOSes for a couple of boards (taken from 86box branch feature/mtrr)
 - i815 boards (taken from 86box branch feature/ich2)
 
