@@ -19,6 +19,7 @@ Features over 86Box
 - New machines such as the Atari PC 3 and the Atari PC 4
 - Experimental support for coreboot BIOSes for a couple of boards (taken from 86box branch feature/mtrr)
 - i815 boards (taken from 86box branch feature/ich2)
+- Better undefined BCD flag emulation for 8086/8088
 
 Planned improvements for the future
 ===================================
