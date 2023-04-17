@@ -5,6 +5,7 @@ PCBox
 
 PCBox is a PC emulator focused on accuracy and hardware preservation above all else.
 PCBox is based on the 86Box emulator.
+The PCBox project is lead by [qeeg](https://github.com/qeeg).
 
 Source code repository is at [https://github.com/PCBox/PCBox](https://github.com/PCBox/PCBox)
 
