@@ -12,6 +12,12 @@ Our Discord is at [https://discord.gg/mWStgCdXus](https://discord.gg/mWStgCdXus)
 
 Our IRC channel is #pcbox on irc.libera.chat
 
+Screenshots
+===========
+![](Untitled.png)
+
+![](Untitled1.png)
+
 Features over 86Box
 ===================
 - Pentium 3 emulation (including SSE)
