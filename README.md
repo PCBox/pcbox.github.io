@@ -6,15 +6,15 @@ PCBox
 PCBox is a PC emulator focused on accuracy and hardware preservation above all else.
 PCBox is based on the 86Box emulator.
 
-Our source code repository is at [https://github.com/PCBox/PCBox](https://github.com/PCBox/PCBox)
+Source code repository is at [https://github.com/PCBox/PCBox](https://github.com/PCBox/PCBox)
 
-Read our documentation at [https://docs.pcbox-emu.xyz/en/latest/](https://docs.pcbox-emu.xyz/en/latest/)
+Read the PCBox documentation at [https://docs.pcbox-emu.xyz/en/latest/](https://docs.pcbox-emu.xyz/en/latest/)
 
-Our Patreon is at [https://www.patreon.com/qeegmfer](https://www.patreon.com/qeegmfer)
+Want to support my work? My Patreon is at [https://www.patreon.com/qeegmfer](https://www.patreon.com/qeegmfer)
 
-Our Discord is at [https://discord.gg/mWStgCdXus](https://discord.gg/mWStgCdXus)
+The Discord is at [https://discord.gg/mWStgCdXus](https://discord.gg/mWStgCdXus)
 
-Our IRC channel is #pcbox on irc.libera.chat
+The IRC channel is #pcbox on irc.libera.chat
 
 What can I do with PCBox?
 =========================
