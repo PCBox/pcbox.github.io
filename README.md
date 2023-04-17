@@ -12,6 +12,12 @@ Our Discord is at [https://discord.gg/mWStgCdXus](https://discord.gg/mWStgCdXus)
 
 Our IRC channel is #pcbox on irc.libera.chat
 
+What can I do with PCBox?
+=========================
+- Learn how computers work at a low level from the source code
+- Run certain demos that don't work on much else than real hardware (Like 8088MPH, for instance)
+- Run old games or applications, on emulated hardware that they were designed for
+
 Screenshots
 ===========
 ![](Untitled.png)
