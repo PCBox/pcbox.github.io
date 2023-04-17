@@ -1,0 +1,115 @@
+/* PCBox stylesheet
+ *
+ * This is free and unencumbered software released into the public domain.
+ * 
+ * Anyone is free to copy, modify, publish, use, compile, sell, or
+ * distribute this software, either in source code form or as a compiled
+ * binary, for any purpose, commercial or non-commercial, and by any
+ * means.
+ * 
+ * In jurisdictions that recognize copyright laws, the author or authors
+ * of this software dedicate any and all copyright interest in the
+ * software to the public domain. We make this dedication for the benefit
+ * of the public at large and to the detriment of our heirs and
+ * successors. We intend this dedication to be an overt act of
+ * relinquishment in perpetuity of all present and future rights to this
+ * software under copyright law.
+ * 
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+ * IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+ * OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ * ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ * OTHER DEALINGS IN THE SOFTWARE.
+ * 
+ * For more information, please refer to <https://unlicense.org>
+ */
+body {
+	font-family: sans;
+	color: #555;
+	line-height: 1.4;
+	max-width: 85em;
+	margin: 0 auto;
+}
+table.main_row {
+	width: 100%;
+}
+header, ul.nav_links {
+	display: flex;
+	flex-direction: row;
+}
+li.nav_link a {
+	text-decoration: none;
+	padding: 5px;
+}
+header, ul.nav_links {
+	justify-content: space-between;
+}
+ul.nav_links {
+	list-style: none;
+	padding: 0;
+}
+ul.nav_links li.nav_link {
+	margin: 10px;
+}
+header img {
+	width: 90px;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: darkseagreen;
+	padding: 5px 0 5px 20px;
+	border-bottom: darkseagreen solid 2px;
+}
+table.imain tbody tr td div {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+table.imain tbody tr td div h1 {
+	font-size: 50pt;
+}
+table.imain tbody tr td div small {
+	margin-top: -40px;
+	font-weight: normal;
+	font-style: italic;
+	color: #555;
+	font-size: 11pt;
+}
+img,video,iframe,pre {
+	max-width: 100%;
+	overflow: auto;
+}
+a[href] {
+	color: darkseagreen;
+}
+a[href]:hover {
+	text-decoration: none;
+	background-color: darkseagreen;
+	color: white;
+}
+footer {
+	font-style: italic;
+	color: darkseagreen;
+	border-top: darkseagreen 2px solid;
+	text-align: center;
+}
+table.imain tr td img {
+	float: right;
+}
+@media screen and (max-width: 646px) {
+	table.main_row tr td {
+		display: block;
+		margin: 0;
+		padding: 0;
+	}
+	table.imain tr td img {
+		float: none;
+	}
+}
+@media screen and (max-width: 500px) {
+	header {
+		text-align: center;
+		display: block;
+	}
+}
