@@ -1,9 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}"
+@import "{{ site.theme }}";
   
-.page-header
+header
 {
   display: none;
 }
