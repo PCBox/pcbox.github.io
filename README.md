@@ -1,4 +1,4 @@
-PCBox
+![](pcboxlogo.png)
 =====
 
 PCBox is a PC emulator focused on accuracy and hardware preservation above all else.
