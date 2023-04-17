@@ -8,6 +8,8 @@ PCBox is based on the 86Box emulator.
 
 Our source code repository is at [https://github.com/PCBox/PCBox](https://github.com/PCBox/PCBox)
 
+Read our documentation at [https://pcbox.readthedocs.io/en/latest/(https://pcbox.readthedocs.io/en/latest/)
+
 Our Patreon is at [https://www.patreon.com/qeegmfer](https://www.patreon.com/qeegmfer)
 
 Our Discord is at [https://discord.gg/mWStgCdXus](https://discord.gg/mWStgCdXus)
